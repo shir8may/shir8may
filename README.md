@@ -42,4 +42,4 @@ Testing | API Testing | Debugging
 
 ## 📫 Contact
 📧 shir8may@gmail.com  
-🔗 LinkedIn: (תוסיפי כאן קישור שלך)
+🔗 LinkedIn: https://www.linkedin.com/in/shir-may-rapaport/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B94GBuRMSQdO2a8ZvP0zl4w%3D%3D

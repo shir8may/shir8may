@@ -6,11 +6,10 @@
 ---
 
 ## 🔍 About Me
-- Strong attention to detail and analytical thinking  
+- Strong attention to detail, with experience finding bugs and inconsistencies in systems  
 - Experience in API testing, validation, and debugging  
 - Hands-on experience with full-stack and client-server applications  
-- Passionate about understanding how systems work and finding issues  
-
+- Curious about how systems work, with a strong focus on identifying issues and improving reliability
 ---
 
 ## 🚀 Projects
